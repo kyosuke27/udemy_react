@@ -3,7 +3,7 @@ import "./styles.css";
 export const App = () => {
   return (
     <>
-      <div>
+      <div class="input-area">
         <input placeholder="TODOを入力" />
         <button>追加</button>
       </div>
